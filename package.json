@@ -1,0 +1,25 @@
+{
+  "name": "sit764",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliasheer/Eduflix.git"
+  },
+  "keywords": [
+    "week4"
+  ],
+  "author": "SIT764-EduFlix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliasheer/Eduflix/issues"
+  },
+  "homepage": "https://github.com/aliasheer/Eduflix#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

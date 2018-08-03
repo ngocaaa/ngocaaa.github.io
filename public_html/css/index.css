@@ -1,0 +1,17 @@
+#header {
+    font-size: 40px;
+    color: goldenrod;
+    text-align: center;
+    font-weight: 550;
+    letter-spacing: 6px;
+    margin-top: 18px;
+    margin-bottom: 22px;
+}
+
+h2 {
+    color: grey;
+}
+
+table {
+    font-size: 18px;
+}
